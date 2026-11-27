@@ -15,6 +15,8 @@ Applications web et mobiles conçues et développées par **Abdoul Azimou TONDI*
 
 👉 **Fiches détaillées, captures et architectures : [portfolio](https://github.com/Tondiness/portfolio)**
 
-**Technologies :** React · TypeScript · Node.js / Express · React Native (Expo) · MySQL · PostgreSQL · Docker
+Des applications pensées pour une bonne expérience utilisateur, dont les interfaces sont conçues sur Figma.
+
+**Technologies :** Figma · React · TypeScript · Node.js / Express · React Native (Expo) · MySQL · PostgreSQL · Docker
 
 📞 +223 84 34 19 11 · ✉️ azimoutondi8@gmail.com
