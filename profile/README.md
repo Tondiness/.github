@@ -10,7 +10,7 @@ Applications web et mobiles conçues et développées par **Abdoul Azimou TONDI*
 | **DOLO Koura** | Vote en ligne payant, classement en temps réel | [dolokoura.com](https://dolokoura.com) |
 | **Gestion des dépenses** | Demandes, validation et budgets d'entreprise | [app.somajeux.ml](https://app.somajeux.ml/) |
 | **Motion School Academy** | Site et back-office d'une académie | [motionschoolacademy.com](https://motionschoolacademy.com/) |
-| **Forum** | Site d'événement, billets QR code | — |
+| **Forum JCI** | Site du Forum national de l'entrepreneuriat | [jcibamakoelite.ml](https://jcibamakoelite.ml/) |
 | **Tontineo** | Gestion de tontine (code public) | [Fintech-IAM](https://github.com/Tondiness/Fintech-IAM) |
 
 👉 **Fiches détaillées, captures et architectures : [portfolio](https://github.com/Tondiness/portfolio)**
